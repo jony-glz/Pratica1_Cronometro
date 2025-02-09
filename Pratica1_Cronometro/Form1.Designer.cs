@@ -54,35 +54,41 @@
             // 
             // btnIniciar
             // 
+            btnIniciar.BackColor = Color.Azure;
             btnIniciar.Font = new Font("Arial Rounded MT Bold", 10F);
             btnIniciar.Image = (Image)resources.GetObject("btnIniciar.Image");
+            btnIniciar.FlatAppearance.BorderSize = 0;
             btnIniciar.Location = new Point(12, 332);
             btnIniciar.Name = "btnIniciar";
             btnIniciar.Size = new Size(128, 103);
             btnIniciar.TabIndex = 1;
-            btnIniciar.UseVisualStyleBackColor = true;
+            btnIniciar.UseVisualStyleBackColor = false;
             btnIniciar.Click += btnIniciar_Click;
             // 
             // btnPausa
             // 
+            btnPausa.BackColor = Color.Azure;
             btnPausa.Font = new Font("Arial Rounded MT Bold", 10F);
             btnPausa.Image = (Image)resources.GetObject("btnPausa.Image");
+            btnPausa.FlatAppearance.BorderSize = 0;
             btnPausa.Location = new Point(220, 332);
             btnPausa.Name = "btnPausa";
             btnPausa.Size = new Size(128, 103);
             btnPausa.TabIndex = 2;
-            btnPausa.UseVisualStyleBackColor = true;
+            btnPausa.UseVisualStyleBackColor = false;
             btnPausa.Click += btnPausa_Click;
             // 
             // btnRestablecer
             // 
+            btnRestablecer.BackColor = Color.Azure;
             btnRestablecer.Font = new Font("Arial Rounded MT Bold", 10F);
             btnRestablecer.Image = (Image)resources.GetObject("btnRestablecer.Image");
+            btnRestablecer.FlatAppearance.BorderSize=0;
             btnRestablecer.Location = new Point(760, 332);
             btnRestablecer.Name = "btnRestablecer";
             btnRestablecer.Size = new Size(128, 103);
             btnRestablecer.TabIndex = 3;
-            btnRestablecer.UseVisualStyleBackColor = true;
+            btnRestablecer.UseVisualStyleBackColor = false;
             btnRestablecer.Click += btnRestablecer_Click;
             // 
             // Form1

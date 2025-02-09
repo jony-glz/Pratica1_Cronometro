@@ -124,7 +124,7 @@
   <data name="btnIniciar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        vgAADr4B6kKxwAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIDSURBVGhD7do9
+        vAAADrwBlbxySQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIDSURBVGhD7do9
         SFVhHMfxmyAkZhGYkmguQfiyhNIg6NbQkDRpLWJDhA6CSIuISJuDm7jk4KCgmxamBS1qNESF4ChFBJGI
         hJGLkvr94z1whyf1nPu8/A/cL3xQt+d3QT3n3JsplPJKUHTybfq6jn4s4wveZH+uRGpqwHscGXxCNy5B
         dVexCtOIXK9wF2p7CtPBTXYwgVtQ1wxMhz7NNzxDBdT0GqbDnscaHqIYwctniDjAHFoRtEWYDhjXNsZw
@@ -139,7 +139,7 @@
   <data name="btnPausa.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        vgAADr4B6kKxwAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAGHSURBVGhD7dm5
+        vAAADrwBlbxySQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAGHSURBVGhD7dm5
         SgRBFIXhdkvct0xEBdF3UPE1xDEVNRfRRNHHEMwEd0zEDQPBUNyX11H/CzNJc6tr7GlBhnPgoyepW5ye
         oYKpRFGUwtOBzvKz8rkZedOE9Dx7/kl6MI9dnOOi/Kx8PsAKBlFtBrCMfaTn2dP2WkAfCskobPgXviMe
         MIVYJnAPb0baNcZQU7pxBm+DkA8MIxT71l7hrQ2xF2m/ityZgTc4ZhOhrMNbE1NCrjRgG97QmDt4B0Aj
@@ -152,7 +152,7 @@
   <data name="btnRestablecer.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        vgAADr4B6kKxwAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANJSURBVGhD7dnZ
+        vAAADrwBlbxySQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANJSURBVGhD7dnZ
         q01hHMbxbZYhMl8IGTJFkilkHv8B5d6VOpmSzGPmGyIyhRvTOUmkJHMyJDOluFDKnCmSTN9He+nX29pb
         a7ZrPfXp7GGdd633nLXW+76/VciTJ0+eLFOr+DOzNMMwTMdG7EN1kV7rM303HNrWTUMsxCWsg982iaUe
         BmM1buMjfuBXCfruE7TtGgxBXSjTYLdVp1KJDmIPPsAeQBDq+G70hzpmv7uFRkgsTTEfz2F3HMVTXMB3
